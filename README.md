@@ -17,7 +17,7 @@ It’s designed as a learning-friendly SQL project for practicing database desig
 🧱 Database Structure
 
 The project consists of three main tables:
-
+```
 1. Books
 
 Stores information about each book available.
@@ -70,6 +70,7 @@ Order_Date
 Quantity
 
 Total_Amount
+```
 
 📝 Features & Queries Included
 🔹 Basic Queries
@@ -117,11 +118,13 @@ Cities of high-spending customers
 Authors with highest sales
 
 📂 File Included
-
+```
 BookStore_final_Project.sql — Full SQL script containing:
 ✔ Table creation
 ✔ Sample SELECT queries
 ✔ Joins, aggregations, analytical SQL
+
+```
 
 ▶️ How to Use
 
